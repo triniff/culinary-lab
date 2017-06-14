@@ -32,7 +32,7 @@ header img{
     border-radius: 100%;
 }
 /* 2 OUR VALUES*/ 
-.top{
+section{
 	padding: 100px 0;
 }
 .top h2{
@@ -78,5 +78,32 @@ header img{
 .second-line{
 	width: 150px;
 	border-bottom: 1px solid black;
-	margin-top: 2px;
+	margin-top: 3px;
+}
+.white{
+	border-color: #fff;
+}
+/* 3 CAKE*/
+#cake{
+	background-image: url(../../img/bg-quote.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	color: #fff;
+}
+#cake h1{
+	width: 900px;
+	margin: 0 auto;
+	font-size: 40px;
+}
+#cake .container{
+	margin-top: 200px;
+}
+.btn-team{
+	background-color: transparent;
+	padding: 10px 20px;
+	border: 1px solid #fff;
+	border-radius: 2px;
+	font-weight: 800;
+	font-size: 18px;
 }
