@@ -36,7 +36,7 @@ section{
 	padding: 100px 0;
 }
 .top h2{
-	font-size: 40px;
+	font-size: 50px;
 	font-weight: 800;
 	margin: 0;
 }
@@ -107,3 +107,34 @@ section{
 	font-weight: 800;
 	font-size: 18px;
 }
+/* 4 PEOPLE*/
+
+#people p{
+	margin: 10px 0;
+}
+
+	/*slider people*/
+	.chef img{
+		width: 360px;
+	}
+	.text-chef{
+		position: absolute;
+		color: #fff;
+		margin-top: 150px;
+	}
+	.text-chef p{
+		font-style: italic;
+	}
+	.icons-chef{
+		padding: 0 120px;
+	}
+	.text-chef a{
+		color: #fff;
+		font-size: 20px;
+	}
+	.mini{
+		width: 50px;
+	}
+	.glyphicon-chevron-left:before{
+		margin-left: -100px;
+	}
